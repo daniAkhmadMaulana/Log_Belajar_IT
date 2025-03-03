@@ -9,6 +9,10 @@
 
 Template log berbentuk markdown untuk saya gunakan dalam mencatat hal apa saja yang saya pelajari dalam mencapai tujuan saya.
 
+Insyaallah saya akan berusaha mengupdate log_belajar saya ketika setelah selesai belajar.
+
+Format name file -> log_<nama_materi>_ddmmyyyy.md
+
 Ya Allah please help me and guide me to achieve my purpose in hijrah to the fitrah or the best and the true potential of me as a Your hamba Ya Allah.
 
 Ya Allah please forgive all my sins and guide me to the straight path, the path of those upon whom You have bestowed favor, and not the path of those who have earned Your anger or of those who are astray, Aamiin..
